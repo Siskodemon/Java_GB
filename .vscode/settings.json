@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Seminar_№2",
+        "Seminar_№1",
+        "Seminar_2"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
