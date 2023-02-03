@@ -1,0 +1,9 @@
+џэт. 27, 2023 10:49:43 PM HomeWork_2.Task_1 main
+WARNING: Error 
+java.util.InputMismatchException: Value out of range. Value:"200" Radix:10
+	at java.base/java.util.Scanner.nextByte(Scanner.java:2008)
+	at java.base/java.util.Scanner.nextByte(Scanner.java:1956)
+	at HomeWork_2.Task_1.main(Task_1.java:32)
+
+џэт. 27, 2023 10:49:43 PM HomeWork_2.Task_1 main
+INFO: Value out of range. Value:"200" Radix:10
